@@ -16,6 +16,9 @@ public class Snejk {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int[][] a = {{0},{0}};
+        Grid kubafeeder = new Grid(1, 1);
+        
     }
     
 }
