@@ -45,4 +45,9 @@ public class Grid {
     public void setGrid(int x, int y, int value){
        grid[x][y]=value;
     }
+    
+    //zad.dom. funkcja ktora ustawia jedna z komorek tablicy
+    //na wartosc 2 i jest to komorka w ktorej nie znajduje sie
+    //wartosc 1 
+    
 }
